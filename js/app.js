@@ -49,7 +49,7 @@ async function loadSvgSprite(url) {
 
 // Initialize rendering
 async function initApp() {
-  await loadSvgSprite('./assets/symbols.svg');
+  await loadSvgSprite('../assets/symbols.svg');
 
   // Fetch external JSON data
   const cardsData = await fetchCardsData('./data/lezhin_2026-11.json');
