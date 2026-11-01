@@ -1,0 +1,681 @@
+[
+    {
+        "id": "590369",
+        "title": "Lost And Hound",
+        "releaseStatus": "releasing",
+        "length": 21,
+        "releaseType": "new",
+        "releaseDate": "2026-11-01",
+        "cover": "assets/covers/590369.png",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Chae-In"
+        ]
+    },
+    {
+        "id": "603987",
+        "title": "F-Boy Problems",
+        "releaseStatus": "releasing",
+        "length": 13,
+        "releaseType": "new",
+        "releaseDate": "2026-11-02",
+        "cover": "assets/covers/603987.jpeg",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Baek-Suk Kim"
+        ]
+    },
+    {
+        "id": "596693",
+        "title": "The Power Play In Love",
+        "releaseStatus": "releasing",
+        "length": 17,
+        "releaseType": "new",
+        "releaseDate": "2026-11-04",
+        "cover": "assets/covers/596693.webp",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Suki"
+        ]
+    },
+    {
+        "id": "596823",
+        "title": "FIVE",
+        "releaseStatus": "releasing",
+        "length": 16,
+        "releaseType": "new",
+        "releaseDate": "2026-11-05",
+        "cover": "assets/covers/596823.png",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "Ppana"
+        ],
+        "artist": [
+            "Nagyung"
+        ]
+    },
+    {
+        "id": "598706",
+        "title": "Fatal Mistake",
+        "releaseStatus": "completed",
+        "length": 5,
+        "releaseType": "new",
+        "releaseDate": "2026-11-06",
+        "cover": "assets/covers/598706.jpeg",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "LEMON"
+        ]
+    },
+    {
+        "id": "89301",
+        "title": "Third Time's the Charm",
+        "releaseStatus": "completed",
+        "length": 10,
+        "releaseType": "new",
+        "releaseDate": "2026-11-08",
+        "cover": "assets/covers/89301.png",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Buja"
+        ]
+    },
+    {
+        "id": "608588",
+        "title": "Be My Boo",
+        "releaseStatus": "upcoming",
+        "length": null,
+        "releaseType": "new",
+        "releaseDate": "2026-11-09",
+        "cover": "assets/covers/608588.jpeg",
+        "exclusive": true,
+        "global": true,
+        "creator": [
+            "Jin"
+        ]
+    },
+    {
+        "id": "595815",
+        "title": "The Lecherous Literatus",
+        "releaseStatus": "completed",
+        "length": 15,
+        "releaseType": "new",
+        "releaseDate": "2026-11-10",
+        "cover": "assets/covers/595815.png",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "Haoci",
+            "Hong-Cha Kim"
+        ],
+        "artist": [
+            "Dukong"
+        ]
+    },
+    {
+        "id": "608657",
+        "title": "Deliver Us From Evil",
+        "releaseStatus": "upcoming",
+        "length": null,
+        "releaseType": "new",
+        "releaseDate": "2026-11-11",
+        "cover": "assets/covers/608657.jpeg",
+        "exclusive": true,
+        "global": true,
+        "author": [
+            "Pias"
+        ],
+        "artist": [
+            "Uto (II)"
+        ]
+    },
+    {
+        "id": "189848",
+        "title": "Freshly Baked Temptation",
+        "releaseStatus": "completed",
+        "length": 7,
+        "releaseType": "new",
+        "releaseDate": "2026-11-12",
+        "cover": "assets/covers/189848.jpeg",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "Gyobi"
+        ],
+        "artist": [
+            "Byeol Yun"
+        ]
+    },
+    {
+        "id": "608651",
+        "title": "Eeny, Meeny, Miney, Mo",
+        "releaseStatus": "upcoming",
+        "length": null,
+        "releaseType": "new",
+        "releaseDate": "2026-11-16",
+        "cover": "assets/covers/608651.jpeg",
+        "exclusive": true,
+        "global": true,
+        "creator": [
+            "Sando (II)"
+        ]
+    },
+    {
+        "id": "597016",
+        "title": "Ice on Me",
+        "releaseStatus": "releasing",
+        "length": 20,
+        "releaseType": "new",
+        "releaseDate": "2026-11-17",
+        "cover": "assets/covers/597016.png",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Yamcha"
+        ]
+    },
+    {
+        "id": "595814",
+        "title": "Jackpot To Another World",
+        "releaseStatus": "releasing",
+        "length": 21,
+        "releaseType": "new",
+        "releaseDate": "2026-11-18",
+        "cover": "assets/covers/595814.jpeg",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Yi-Sal"
+        ]
+    },
+    {
+        "id": "189683",
+        "title": "Winning Mentality",
+        "releaseStatus": "releasing",
+        "length": 42,
+        "releaseType": "new",
+        "releaseDate": "2026-11-19",
+        "cover": "assets/covers/189683.png",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Si-On Yeon"
+        ]
+    },
+    {
+        "id": "597259",
+        "title": "Course Correction",
+        "releaseStatus": "releasing",
+        "length": 18,
+        "releaseType": "new",
+        "releaseDate": "2026-11-20",
+        "cover": "assets/covers/597259.jpeg",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "Bambammaen",
+            "Gakjin Seoltang"
+        ],
+        "artist": [
+            "Yeo-Baek"
+        ]
+    },
+    {
+        "id": "599074",
+        "title": "Afterburn",
+        "releaseStatus": "completed",
+        "length": 5,
+        "releaseType": "new",
+        "releaseDate": "2026-11-23",
+        "cover": "assets/covers/599074.webp",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Jjeongu"
+        ]
+    },
+    {
+        "id": "599085",
+        "title": "The Last Ride",
+        "releaseStatus": "completed",
+        "length": 4,
+        "releaseType": "new",
+        "releaseDate": "2026-11-23",
+        "cover": "assets/covers/599085.png",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Jango"
+        ]
+    },
+    {
+        "id": "599084",
+        "title": "In His Domain",
+        "releaseStatus": "completed",
+        "length": 6,
+        "releaseType": "new",
+        "releaseDate": "2026-11-23",
+        "cover": "assets/covers/599084.png",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "Cheo-Yeon"
+        ],
+        "artist": [
+            "Himchan"
+        ]
+    },
+    {
+        "id": "598705",
+        "title": "Ambroxan",
+        "releaseStatus": "completed",
+        "length": 5,
+        "releaseType": "new",
+        "releaseDate": "2026-11-23",
+        "cover": "assets/covers/598705.png",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Ppukon Kang"
+        ]
+    },
+    {
+        "id": "608650",
+        "title": "Hidden Cast",
+        "releaseStatus": "upcoming",
+        "length": null,
+        "releaseType": "new",
+        "releaseDate": "2026-11-24",
+        "cover": "assets/covers/608650.jpeg",
+        "exclusive": true,
+        "global": true,
+        "creator": [
+            "Cajung"
+        ]
+    },
+    {
+        "id": "590721",
+        "title": "This Is Me",
+        "releaseStatus": "releasing",
+        "length": 25,
+        "releaseType": "new",
+        "releaseDate": "2026-11-25",
+        "cover": "assets/covers/590721.webp",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "Eoset",
+            "Singmok"
+        ],
+        "artist": [
+            "Gongsang"
+        ]
+    },
+    {
+        "id": "598797",
+        "title": "Perfect Spiral",
+        "releaseStatus": "releasing",
+        "length": 18,
+        "releaseType": "new",
+        "releaseDate": "2026-11-28",
+        "cover": "assets/covers/598797.png",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "CARPET",
+            "Saessak"
+        ],
+        "artist": [
+            "Misang"
+        ]
+    },
+    {
+        "id": "75079",
+        "title": "Overclock",
+        "releaseStatus": "releasing",
+        "length": 81,
+        "releaseType": "sidestory",
+        "releaseDate": "2026-11-01",
+        "cover": "assets/covers/75079.jpeg",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Wonchuri"
+        ]
+    },
+    {
+        "id": "523191",
+        "title": "Housemate from Hell",
+        "releaseStatus": "releasing",
+        "length": 20,
+        "releaseType": "sidestory",
+        "releaseDate": "2026-11-02",
+        "cover": "assets/covers/523191.png",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Dentalkkeom"
+        ]
+    },
+    {
+        "id": "547",
+        "title": "Kiss Me if You Can",
+        "releaseStatus": "releasing",
+        "length": 55,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-03",
+        "cover": "assets/covers/547.jpeg",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "Mano",
+            "ZIG"
+        ],
+        "artist": [
+            "Giho"
+        ]
+    },
+    {
+        "id": "580101",
+        "title": "New World Order",
+        "releaseStatus": "hiatus",
+        "length": 20,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-04",
+        "cover": "assets/covers/580101.png",
+        "exclusive": true,
+        "global": true,
+        "creator": [
+            "Hyel"
+        ]
+    },
+    {
+        "id": "188376",
+        "title": "Radiant Darkness",
+        "releaseStatus": "releasing",
+        "length": 60,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-04",
+        "cover": "assets/covers/188376.jpeg",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "Domi",
+            "Mambo",
+            "Tenciel"
+        ],
+        "artist": [
+            "Pigon Tokki"
+        ]
+    },
+    {
+        "id": "114448",
+        "title": "You Are So Lovely",
+        "releaseStatus": "hiatus",
+        "length": 59,
+        "releaseType": "sidestory",
+        "releaseDate": "2026-11-10",
+        "cover": "assets/covers/114448.jpeg",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "I-Do Jang"
+        ]
+    },
+    {
+        "id": "162657",
+        "title": "Saturday's Master",
+        "releaseStatus": "releasing",
+        "length": 69,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-11",
+        "cover": "assets/covers/162657.png",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "DO.D",
+            "Seomonhwa"
+        ],
+        "artist": [
+            "DO.D"
+        ]
+    },
+    {
+        "id": "86896",
+        "title": "A First of Summers",
+        "releaseStatus": "releasing",
+        "length": 64,
+        "releaseType": "sidestory",
+        "releaseDate": "2026-11-12",
+        "cover": "assets/covers/86896.webp",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Ppangjib"
+        ]
+    },
+    {
+        "id": "523725",
+        "title": "10 Years",
+        "releaseStatus": "releasing",
+        "length": 32,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-12",
+        "cover": "assets/covers/523725.jpeg",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Ban Baek"
+        ]
+    },
+    {
+        "id": "358003",
+        "title": "MIX-UP",
+        "releaseStatus": "releasing",
+        "length": 25,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-12",
+        "cover": "assets/covers/358003.png",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Gyeol"
+        ]
+    },
+    {
+        "id": "572391",
+        "title": "Proceed With Caution",
+        "releaseStatus": "releasing",
+        "length": 27,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-13",
+        "cover": "assets/covers/572391.jpeg",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Deungbul"
+        ]
+    },
+    {
+        "id": "86999",
+        "title": "Legroom",
+        "releaseStatus": "releasing",
+        "length": 22,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-14",
+        "cover": "assets/covers/86999.png",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Dakto"
+        ]
+    },
+    {
+        "id": "88139",
+        "title": "Cherry Cake",
+        "releaseStatus": "releasing",
+        "length": 60,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-15",
+        "cover": "assets/covers/88139.jpeg",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "Chayen"
+        ],
+        "artist": [
+            "Nocha"
+        ]
+    },
+    {
+        "id": "88945",
+        "title": "Dreadful Night",
+        "releaseStatus": "completed",
+        "length": 80,
+        "releaseType": "sidestory",
+        "releaseDate": "2026-11-16",
+        "cover": "assets/covers/88945.jpeg",
+        "exclusive": true,
+        "global": true,
+        "creator": [
+            "Mo-An"
+        ]
+    },
+    {
+        "id": "46476",
+        "title": "Sketch",
+        "releaseStatus": "completed",
+        "length": 155,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-19",
+        "cover": "assets/covers/46476.jpeg",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Dosak"
+        ]
+    },
+    {
+        "id": "579688",
+        "title": "Guiding Me Mad",
+        "releaseStatus": "releasing",
+        "length": 22,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-19",
+        "cover": "assets/covers/579688.webp",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Yeomra"
+        ]
+    },
+    {
+        "id": "86759",
+        "title": "7 Sexy Days With 8 Sexy Men",
+        "releaseStatus": "releasing",
+        "length": 26,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-23",
+        "cover": "assets/covers/86759.jpeg",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "Ttwittwippangppang"
+        ],
+        "artist": [
+            "Surim"
+        ]
+    },
+    {
+        "id": "367238",
+        "title": "In My Bad",
+        "releaseStatus": "releasing",
+        "length": 36,
+        "releaseType": "comeback",
+        "releaseDate": "2026-11-25",
+        "cover": "assets/covers/367238.jpeg",
+        "exclusive": true,
+        "global": false,
+        "creator": [
+            "Tangeum"
+        ]
+    },
+    {
+        "id": "58744",
+        "title": "Blaze Out",
+        "releaseStatus": "completed",
+        "length": 79,
+        "releaseType": "sidestory",
+        "releaseDate": "2026-11-26",
+        "cover": "assets/covers/58744.jpeg",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "Jeulleot",
+            "Pal-I Chae"
+        ],
+        "artist": [
+            "Kkoyo"
+        ]
+    },
+    {
+        "id": "90963",
+        "title": "Invisible Partner",
+        "releaseStatus": "completed",
+        "length": 53,
+        "releaseType": "sidestory",
+        "releaseDate": "2026-11-28",
+        "cover": "assets/covers/90963.png",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "Jamyeong"
+        ],
+        "artist": [
+            "Cheon-Seok"
+        ]
+    },
+    {
+        "id": "112366",
+        "title": "Virtual Strangers",
+        "releaseStatus": "releasing",
+        "length": 110,
+        "releaseType": "sidestory",
+        "releaseDate": "2026-11-30",
+        "cover": "assets/covers/112366.jpeg",
+        "exclusive": true,
+        "global": false,
+        "author": [
+            "ANGELA",
+            "Honey Trap"
+        ],
+        "artist": [
+            "Bijak"
+        ]
+    },
+    {
+        "id": "202650",
+        "title": "Seniors' New Employee Gifts",
+        "releaseStatus": "completed",
+        "length": 4,
+        "releaseType": "new",
+        "releaseDate": "2026-11-25",
+        "cover": "assets/covers/202650.jpeg",
+        "exclusive": false,
+        "global": false,
+        "author": [
+            "Cham Gileum",
+            "Golden Fxxk"
+        ],
+        "artist": [
+            "Kaheul",
+            "Metatoon"
+        ]
+    }
+]
