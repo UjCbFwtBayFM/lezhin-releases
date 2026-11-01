@@ -536,7 +536,7 @@
     {
         "id": "88945",
         "title": "Dreadful Night",
-        "releaseStatus": "completed",
+        "releaseStatus": "hiatus",
         "length": 80,
         "releaseType": "sidestory",
         "releaseDate": "2026-11-16",
@@ -550,13 +550,13 @@
     {
         "id": "46476",
         "title": "Sketch",
-        "releaseStatus": "completed",
+        "releaseStatus": "hiatus",
         "length": 155,
         "releaseType": "comeback",
         "releaseDate": "2026-11-19",
         "cover": "assets/covers/46476.jpeg",
         "exclusive": true,
-        "global": false,
+        "global": true,
         "creator": [
             "Dosak"
         ]
@@ -661,7 +661,7 @@
     },
     {
         "id": "202650",
-        "title": "Seniors' New Employee Gifts",
+        "title": "Welcome to the Company",
         "releaseStatus": "completed",
         "length": 4,
         "releaseType": "new",
